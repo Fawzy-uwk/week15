@@ -2,8 +2,8 @@ import "bootstrap/dist/css/bootstrap.min.css";
 
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Hero from "./Components/Hero";
-import About from "./Components/about";
-import  Portfolio  from "./Components/portfolio";
+import About from "./Components/About";
+import Portfolio from "./Components/Portfolio";
 import Contact from "./Components/Contact";
 import Layout from "./Components/Layout";
 
