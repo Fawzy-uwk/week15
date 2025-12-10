@@ -4,7 +4,7 @@ import port2 from "../assets/port2.png";
 import port3 from "../assets/port3.png";
 import { useState } from "react";
 
-export function Portfolio() {
+export default function Portfolio() {
     const [selectedImg, setSelectedImg] = useState(null);
 
     const items = [
